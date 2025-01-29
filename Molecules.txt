@@ -1,1 +1,6 @@
-The data for molecules that are available here are Trifluoromethane b) 1,1,1-Trifluoroethane (R143a), c) 1,1,1-Trifluoropropane, d) 3,3,3-Trifluropropene e) 1,1,1,2-Tetrafluoroethane (R134a)
+The data for molecules that are available here are 
+a) Trifluoromethane, 
+b) 1,1,1-Trifluoroethane (R143a), 
+c) 1,1,1-Trifluoropropane, 
+d) 3,3,3-Trifluropropene 
+e) 1,1,1,2-Tetrafluoroethane (R134a)
